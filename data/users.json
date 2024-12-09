@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Ryszard",
+        "nip": "1234567890",
+        "pesel": "44051401359",
+        "regon": "123456789",
+        "email": "ryszard@op.pl"
+    },
+    {
+        "id": 2,
+        "name": "Anna Nowak",
+        "nip": "9876543210",
+        "pesel": "55011004567",
+        "regon": "987654321",
+        "email": "anna.nowak@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Piotr Zieliński",
+        "nip": "1234567890",
+        "pesel": "69071203511",
+        "regon": "123987654",
+        "email": "piotr.zielinski@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Katarzyna Wiśniewska",
+        "nip": "1122334455",
+        "pesel": "76031501903",
+        "regon": "789456123",
+        "email": "katarzyna.wisniewska@example.com"
+    }
+]
